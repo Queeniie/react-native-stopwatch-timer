@@ -4,6 +4,8 @@ A React Native component that provides a stopwatch and timer.
 
 <img width="400px" src="./docs/screenshots/Screen Shot 2016-12-03 at 12.54.31 PM.png" />
 
+## Forked from another fork (https://github.com/jfedgar/react-native-stopwatch-timer) so I could fix the componentWillUnmount warnings. ##
+
 ### Instructions
 
 ```npm install react-native-stopwatch-timer```
